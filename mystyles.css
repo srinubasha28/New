@@ -1,0 +1,115 @@
+/* CSS for styling the navigation menu */
+nav{
+  background-color: #072a48;
+  color:white;
+  padding: 20px;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+nav ul li a{
+  color:white;
+  text-decoration: 20px;
+}
+nav ul li a:hover{
+  text-decoration: underline;
+}
+section{
+  padding: 20px;
+}
+footer{
+  background-color: rgb(7, 96, 67);
+  color:#fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 100px;
+}
+body h1{
+  color:rgba(91, 0, 3, 0.883);
+}
+.content{
+  position: absolute;
+  padding-left: 100px;
+}
+.content-1{
+  position: absolute;
+  padding-left: 380px;
+}
+.content-2{
+  position: absolute;
+  padding-left: 640px;
+}
+.content-3{
+  position: absolute;
+  padding-left: 890px;
+}
+.content-4{
+  position: absolute;
+  padding-left: 1150px;
+}
+.content-5{
+  position: absolute;
+  padding-left: 100px;
+}
+.content-6{
+  position: absolute;
+  padding-left: 350px;
+}
+.content-7{
+  position: absolute;
+  padding-left: 610px;
+}
+.content-8{
+  position: absolute;
+  padding-left: 880px;
+}
+.content-9{
+  position: absolute;
+  padding-left: 1150px;
+}
+.content-10{
+  position: absolute;
+  padding-left: 100px;
+}
+.content-11{
+  position: absolute;
+  padding-left: 360px;
+}
+.content-12{
+  position: absolute;
+  padding-left: 600px;
+}
+.content-13{
+  position: absolute;
+  padding-left: 870px;
+}
+.content-14{
+  position: absolute;
+  padding-left: 1140px;
+}
+.addtocard-button
+{
+  background-color:rgb(255,216,20);
+  height: 35;
+  width: 180;
+  border:none;
+  font-size: 17px;
+  border-radius: 18px;
+  font-size: 17px;
+  cursor: pointer;
+  margin-right:200px;
+  transition: background 0.15s;
+}
+
+.addtocard-button :hover{
+  background-color: rgb(247,202,0);
+}
+.addtocard-button :active {
+  opacity :0.5;
+}
